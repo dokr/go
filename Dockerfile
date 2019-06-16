@@ -1,4 +1,4 @@
-FROM golang:alpine
+FROM golang:1.12.6
 
 MAINTAINER Chuanjian Wang <me@ckeyer.com>
 
